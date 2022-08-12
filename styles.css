@@ -208,7 +208,7 @@ input:disabled {
 
 .codeblock {
   border-width: 1px;
-  border-color: #cbd5e0
+  border-color: #cbd5e0;
   border-radius: 0.25rem;
   display: block;
   padding: 0.75rem;
